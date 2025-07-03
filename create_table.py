@@ -1,4 +1,6 @@
-# Databricks notebook code to create a table in the ericsandbox.default schema
+# Databricks notebook source
+# COMMAND ----------
+# This is the first cell
 
 from pyspark.sql.types import StructType, StructField, StringType, IntegerType
 
